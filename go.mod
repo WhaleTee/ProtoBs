@@ -1,3 +1,3 @@
-module github.com/WhaleTee/ProtoBs
+module ProtoBs
 
 go 1.26
